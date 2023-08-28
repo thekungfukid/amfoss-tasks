@@ -87,7 +87,7 @@ We will use the below commands to add, commit and push the new files(SOLUTION.MD
 
 karthik@karthik-vostro-3500:~/amfoss/amfoss-tasks/task-01$ git add .
 karthik@karthik-vostro-3500:~/amfoss/amfoss-tasks/task-01$ git status
-karthik@karthik-vostro-3500:~/amfoss/amfoss-tasks/task-01$ git commit -m "added SOLUTION.md"
+karthik@karthik-vostro-3500:~/amfoss/amfoss-tasks/task-01$ git commit -m "added SOLUTION.md and thefinalspell-message.png"
 karthik@karthik-vostro-3500:~/amfoss/amfoss-tasks/task-01$ git push -u -f origin main
 
 ![The Final Spell Message](/task-01/thefinalspell-message.png "The Final Spell Message")
