@@ -28,6 +28,6 @@ On my first reading, I found the tasks hard. But I do feel that these tasks are 
 [Task-11](https://github.com/thekungfukid/amfoss-tasks/tree/main/task-11)|TinkerCAD|
 [Task-12](https://github.com/thekungfukid/amfoss-tasks/tree/main/task-12)|Godot|
 [Task-13](https://github.com/thekungfukid/amfoss-tasks/tree/main/task-13)|Vim|
-[Task-14](https://github.com/thekungfukid/amfoss-tasks/tree/main/task-14)|Bandit|
-[Task-15](https://github.com/thekungfukid/amfoss-tasks/tree/main/task-15)|Project Euler|
+[Task-14](https://github.com/thekungfukid/amfoss-tasks/tree/main/task-14)|Bandit|Completed
+[Task-15](https://github.com/thekungfukid/amfoss-tasks/tree/main/task-15)|Project Euler|Completed
 
