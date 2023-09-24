@@ -17,7 +17,7 @@ On my first reading, I found the tasks hard. But I do feel that these tasks are 
 [Task-00](https://github.com/thekungfukid/amfoss-tasks/tree/main/task-00)|Install Linux|Completed
 [Task-01](https://github.com/thekungfukid/amfoss-tasks/tree/main/task-01)|Terminal Wizard|Completed
 [Task-02](https://github.com/thekungfukid/amfoss-tasks/tree/main/task-02)|Lessgo Hugo|
-[Task-03](https://github.com/thekungfukid/amfoss-tasks/tree/main/task-03)|Hello, World!|
+[Task-03](https://github.com/thekungfukid/amfoss-tasks/tree/main/task-03)|Hello, World!|Completed
 [Task-04](https://github.com/thekungfukid/amfoss-tasks/tree/main/task-04)|Competitive Programming|Partially Completed
 [Task-05](https://github.com/thekungfukid/amfoss-tasks/tree/main/task-05)|Hypertext Mockup Language|
 [Task-06](https://github.com/thekungfukid/amfoss-tasks/tree/main/task-06)|Cricket Vault|
