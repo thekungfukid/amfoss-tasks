@@ -1,0 +1,32 @@
+use std::io;
+
+fn is_prime(n: u32) -> bool {
+    if n <= 1 {
+        return false;
+    }
+    let sqrt_n = (n as f64).sqrt() as u32;
+    for i in 2..=sqrt_n {
+        if n % i == 0 {
+            return false;
+        }
+    }
+    true
+}
+
+fn prime_numbers(n: u32) {
+    for i in 2..=n {
+        if is_prime(i) {
+            print!("{} ", i);
+        }
+    }
+    println!();
+}
+
+fn main() {
+    println!("Enter the No upto which to print Prime Number:");
+    let mut input = String::new();
+    io::stdin().read_line(&mut input).expect("Failed to read line");
+    let n: u32 = input.trim().parse().expect("Invalid input");
+    prime_numbers(n);
+}
+
