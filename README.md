@@ -19,7 +19,7 @@ On my first reading, I found the tasks hard. But I do feel that these tasks are 
 [Task-02](https://github.com/thekungfukid/amfoss-tasks/tree/main/task-02)|Lessgo Hugo|
 [Task-03](https://github.com/thekungfukid/amfoss-tasks/tree/main/task-03)|Hello, World!|Completed
 [Task-04](https://github.com/thekungfukid/amfoss-tasks/tree/main/task-04)|Competitive Programming|Partially Completed
-[Task-05](https://github.com/thekungfukid/amfoss-tasks/tree/main/task-05)|Hypertext Mockup Language|
+[Task-05](https://github.com/thekungfukid/amfoss-tasks/tree/main/task-05)|Hypertext Mockup Language|Partially Completed
 [Task-06](https://github.com/thekungfukid/amfoss-tasks/tree/main/task-06)|Cricket Vault|
 [Task-07](https://github.com/thekungfukid/amfoss-tasks/tree/main/task-07)|AK-47℃|
 [Task-08](https://github.com/thekungfukid/amfoss-tasks/tree/main/task-08)|Poke-Search!|

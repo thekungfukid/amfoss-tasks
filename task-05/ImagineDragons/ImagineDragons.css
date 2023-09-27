@@ -1,0 +1,99 @@
+/* Reset default margin, padding, and font */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: url('backdrop.png') no-repeat center center fixed;
+    background-size: cover;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+}
+
+header {
+    background-color: rgba(22, 22, 49, 0.8);
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header.content {
+    display: flex;
+    align-items: center;
+}
+
+.header-logo img.main {
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    text-align: left;
+    align-self: flex-start;
+}
+
+.Social {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.Social img {
+    width: 30px;
+    height: 30px;
+}
+
+main {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+#we-are {
+    font-size: 23px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 20px;
+    position:absolute;
+    top:73%;
+    left:47%;
+    transform:translateX(-50%) translateY(-50%);
+}
+
+#imaginedragons_image img {
+    width: 1000px; /* Adjust the width of the image button */
+    height: auto; /* Maintain aspect ratio */
+    position:absolute;
+    top:82%;
+    transform:translateX(-50%) translateY(-50%);
+    
+}
+
+footer {
+    text-align: center;
+    margin-top: 5px;
+}
+
+#explore_shop_button img {
+    position: absolute; /* Position the button absolutely */
+    bottom: 40px; /* Adjust the distance from the bottom edge as needed */
+    width: 220px; /* Adjust the width of the image button */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Remove any extra spacing */
+    left: 48%;
+    transform: translateX(-50%); /* Center horizontally */
+}
